@@ -23,10 +23,11 @@ final class Main {
             System.out.println("Beng" + y); }
 
         for (int k = -2; k < 10; k++) {
-            System.out.println("Number: " + k); }
+            System.out.println("Number: " + k ); }
 
 
 // nice
+//W tej samej chwili // coś dodaję
 // lol
 //W tej samej chwili
         //bbb
