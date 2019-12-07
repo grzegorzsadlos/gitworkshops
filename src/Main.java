@@ -16,7 +16,8 @@ final class Main {
             System.out.println("Iteracja: " + i);
         }
 //esddfgfdgdg
-        System.out.println("cos dodja");
+        System.out.println("cos dodaj");
+        //jest ok
 
         for (int y = 2; y < 15; y++) {
             System.out.println("Beng" + y); }
