@@ -9,6 +9,10 @@ final class Main {
         System.out.println("Hello Me");
         System.out.println("Hello Team");
         System.out.println("szczałka");
+        System.out.println(50/3);
+
+
+
 
     }
 }
