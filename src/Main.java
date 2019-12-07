@@ -18,6 +18,7 @@ final class Main {
             System.out.println("Iteracja: " + i);
         }
 //esddfgfdgdg
+        System.out.println("cos dodja");
 
     }
 }
