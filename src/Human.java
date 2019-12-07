@@ -7,7 +7,7 @@ public class Human {
         String name;
         boolean isMale;
 
-        public void Human ( int age, int weight, int height, String name,  boolean gender){
+        public Human ( int age, int weight, int height, String name,  boolean gender){
             this.age = age;
             this.weight = weight;
             this.height = height;
