@@ -27,7 +27,7 @@ final class Main {
 
 
 // nice
-
+//W tej samej chwili
         //bbb
         //ccc
         //abc_123
