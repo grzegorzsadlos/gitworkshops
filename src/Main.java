@@ -9,5 +9,10 @@ final class Main {
         System.out.println("Hello Me");
         System.out.println("Hello Team");
 
+        for (int i = 0; i < 10; i++) {
+            System.out.println("Iteracja: " + i);
+        }
+
+
     }
 }
