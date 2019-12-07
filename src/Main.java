@@ -19,8 +19,15 @@ final class Main {
         System.out.println("cos dodja");
 
         for (int y = 2; y < 15; y++) {
-            System.out.println("Beng" + y);
-        }
+            System.out.println("Beng" + y); }
+
+        for (int k = -2; k < 10; k++) {
+            System.out.println("Number: " + k); }
+
+
+
+
+
 
     }
 }
