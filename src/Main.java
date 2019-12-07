@@ -9,16 +9,15 @@ final class Main {
         System.out.println("Hello Me");
         System.out.println("Hello Team");
         System.out.println("szczałka");
-        System.out.println(50/3);
-
-
+        System.out.println(50 / 3);
 
 
         for (int i = 0; i < 10; i++) {
             System.out.println("Iteracja: " + i);
         }
 //esddfgfdgdg
-        System.out.println("cos dodja");
+        System.out.println("cos dodaj");
+        //jest ok
 
     }
 }
