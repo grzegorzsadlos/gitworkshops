@@ -13,10 +13,7 @@ public class Main{
 
         System.out.println(tab.toString());
 
-        //
-
         Name("Roger");
-
 
     }
     public static void Name(String name){
