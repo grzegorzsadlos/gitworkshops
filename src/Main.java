@@ -19,5 +19,9 @@ final class Main {
         System.out.println("cos dodaj");
         //jest ok
 
+        for (int y = 2; y < 15; y++) {
+            System.out.println("Beng" + y);
+        }
+
     }
 }
